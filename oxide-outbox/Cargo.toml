@@ -1,0 +1,6 @@
+[package]
+name = "oxide-outbox"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
